@@ -1,10 +1,10 @@
-# Airflow ETL Pipeline
+# 🚀 Airflow ETL Pipeline
 
-A complete ETL pipeline project built with Apache Airflow and Astronomer for orchestrating, scheduling, and monitoring data workflows.
+A complete ETL pipeline project built with Apache Airflow and Astronomer for orchestrating, scheduling, and monitoring data workflows. 🚀
 
 ---
 
-## Overview
+## 📌 Overview
 
 This project demonstrates how to build and manage ETL workflows using:
 
@@ -18,19 +18,19 @@ The pipeline automates data extraction, transformation, and loading processes wh
 
 ---
 
-## Features
+## ✨ Features
 
-* Automated ETL workflows using Airflow DAGs
-* Task scheduling and orchestration
-* Dockerized environment for easy setup
-* Airflow Web UI for monitoring pipelines
-* Modular DAG structure
-* Example DAGs included
-* Ready for local development and deployment
+* ✅ Automated ETL workflows using Airflow DAGs
+* ✅ Task scheduling and orchestration
+* ✅ Dockerized environment for easy setup
+* ✅ Airflow Web UI for monitoring pipelines
+* ✅ Modular DAG structure
+* ✅ Example DAGs included
+* ✅ Ready for local development and deployment
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```bash
 .
@@ -47,7 +47,7 @@ The pipeline automates data extraction, transformation, and loading processes wh
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 * Python
 * Apache Airflow
@@ -57,7 +57,7 @@ The pipeline automates data extraction, transformation, and loading processes wh
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -69,7 +69,7 @@ Before running the project, make sure you have installed:
 
 ---
 
-## Installation
+## ⚙️ Installation
 
 Clone the repository:
 
@@ -91,7 +91,7 @@ pip install -r requirements.txt
 
 ---
 
-## Run the Project
+## ▶️ Run the Project
 
 Start Airflow locally using Astronomer:
 
@@ -114,7 +114,7 @@ Password: admin
 
 ---
 
-## Example DAGs
+## 📊 Example DAGs
 
 ### etl_simple
 
@@ -131,7 +131,7 @@ Basic Airflow DAG example for scheduling and workflow execution.
 
 ---
 
-## Monitoring
+## 📈 Monitoring
 
 Airflow UI allows you to:
 
@@ -143,7 +143,7 @@ Airflow UI allows you to:
 
 ---
 
-## Future Improvements
+## 🔮 Future Improvements
 
 * Integrate cloud storage
 * Add data validation checks
@@ -153,7 +153,7 @@ Airflow UI allows you to:
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **Tharwat Farag**
 
@@ -162,7 +162,7 @@ Airflow UI allows you to:
 
 ---
 
-## License
+## 📄 License
 
 This project is for learning and portfolio purposes.
 
